@@ -60,9 +60,13 @@ class Counter extends Component {
 ✨ Features
 
 ✅ Dynamic badge style — changes color when count is zero
+
 ✅ Increment button — calls onIncrement handler from parent
+
 ✅ Delete button — calls onDelete handler from parent
+
 ✅ Lifecycle methods:
+
     - componentDidUpdate – detects prop changes (e.g., value updates)
     - componentWillUnmount – cleanup logic when removed
 
