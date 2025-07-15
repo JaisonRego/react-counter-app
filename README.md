@@ -58,6 +58,7 @@ class Counter extends Component {
 
 # export default Counter;
 ✨ Features
+
 ✅ Dynamic badge style — changes color when count is zero
 ✅ Increment button — calls onIncrement handler from parent
 ✅ Delete button — calls onDelete handler from parent
